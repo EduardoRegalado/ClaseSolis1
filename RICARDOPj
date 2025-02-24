@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EXAMEN</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+
+<body class="contenedor">
+    <header class="header">HEADER</header>
+    <nav class="menu">MENU</nav>
+    <section class="hero">HERO</section>
+    <main class="main">MAIN</main>
+    <section class="banner">BANNER</section>
+    <section class="extra">EXTRA</section>
+    <section class="image">IMAGE</section>
+</body>
+</html>
